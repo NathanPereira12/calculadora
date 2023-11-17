@@ -1,0 +1,4 @@
+Esta aplicação tem como objetivo facilitar o declaração do imposto de renda, fazendo o precesso de uma forma simples e pratica.
+A aplicação tem a funcionalidade de fazer todo o calculo do imposto de renda basedo no faturamento anual da empresa, deixando
+clar que no momento é apenas uma aplicação simples onde é necessario colocar a renda anual e os gastos dedutiveis. Para executar a aplicação basta você executar o código e colocar os valores solicitados 
+no campo de preenchimento que aparecer.
